@@ -1,0 +1,1 @@
+sha256-202079c26fb24db62b55d1e1d3d192bf84d0f44d4178618f2f729683d8417f4f  MrBeanVisualsSetup.exe
